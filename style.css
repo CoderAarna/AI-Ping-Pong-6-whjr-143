@@ -1,0 +1,69 @@
+
+.heading
+{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+    display: inline;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+
+#status{
+    font-size: 22px;
+}
+#start{
+    font-family: "Covered By Your Grace", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+}
+#restart{
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+  box-shadow: 5px 5px 5px solid white;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+   color:gray;
+   line-height: 2;
+   margin: 0px;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+}
